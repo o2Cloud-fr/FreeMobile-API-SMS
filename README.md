@@ -4,6 +4,8 @@
 
 Une application élégante construite avec Electron et Node.js, offrant une interface utilisateur inspirée du design moderne avec des effets glassmorphism pour envoyer facilement des SMS depuis votre ordinateur via l'API officielle Free Mobile.
 
+Version Web : https://freemobile.o2cloud.fr/
+
 ![Banner](https://img.shields.io/badge/Free%20SMS%20Sender-v1.0.0-blue?style=for-the-badge&logo=electron)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
